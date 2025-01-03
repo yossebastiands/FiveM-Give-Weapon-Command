@@ -2,7 +2,7 @@
 
 **How To Install**
 - Drop the GiveWeaponCommand_FiveM folder to your resource folder of your server
-- Make sure to _ensure GiveWeaponCommand_FiveM_
+- Make sure to _ensure GiveWeaponCommand_FiveM_ in your _server.cfg_
 
 **How To Use**
 - Use the command /weapon
